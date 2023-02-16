@@ -1,0 +1,2 @@
+kucoin-futures-python==1.0.6
+stock-indicators==1.0.0
